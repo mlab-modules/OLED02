@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/OLED02.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/OLED02.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/OLED02
+summary: 1.3" OLED display module
