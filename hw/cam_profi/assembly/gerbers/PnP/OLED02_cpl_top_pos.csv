@@ -1,0 +1,7 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J2","HEADER_2x05_PARALLEL","PinHeader_2x05_P2.54mm_Vertical",0.8100,-10.3700,-90.0000,top
+"JP1","ADR","PinHeader_1x03_P2.54mm_Vertical",9.8250,-12.7600,-90.0000,top
+"M1","HOLE","MountingHole_3mm",-15.2900,20.3700,0.0000,top
+"M2","HOLE","MountingHole_3mm",15.1900,20.3700,0.0000,top
+"M3","HOLE","MountingHole_3mm",-15.2900,-10.1100,0.0000,top
+"M4","HOLE","MountingHole_3mm",15.1900,-10.1100,0.0000,top
