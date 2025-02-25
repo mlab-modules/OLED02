@@ -5,17 +5,17 @@ github_repo: OLED02
 github_url: https://github.com/mlab-modules/OLED02
 homepage: false
 images:
-- doc/gen/img/OLED02-top.png
 - doc/gen/img/OLED02-bottom.png
+- doc/gen/img/OLED02-top.png
 - hw/cam_profi/assembly/OLED02-assembly_page_01.svg
 - hw/cam_profi/assembly/OLED02-assembly_page_02.svg
 - doc/gen/OLED02-schematic.svg
-- doc/gen/img/OLED02-top.svg
 - doc/gen/img/OLED02-bottom.svg
+- doc/gen/img/OLED02-top.svg
 mark: 50
 mod_ibom: hw/cam_profi/OLED02-ibom.html
 mod_scheme: doc/gen/OLED02-schematic.pdf
 status: 1
 tags: []
 title: OLED02
-updated: '2025-02-25T21:56:07.253532+00:00'
+updated: '2025-02-25T21:58:13.922870+00:00'
