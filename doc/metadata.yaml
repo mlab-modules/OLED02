@@ -15,7 +15,7 @@ images:
 mark: 50
 mod_ibom: hw/cam_profi/OLED02-ibom.html
 mod_scheme: doc/gen/OLED02-schematic.pdf
-status: 0
+status: 1
 tags: []
 title: OLED02
 updated: '2025-02-22T15:24:12.912543+00:00'
