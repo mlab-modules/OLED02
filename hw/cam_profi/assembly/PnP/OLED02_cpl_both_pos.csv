@@ -7,8 +7,9 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C6","100n","C_0805_2012Metric",-13.7700,12.0200,180.0000,bottom
 "C7","10u","C_0805_2012Metric",-13.7800,14.0900,180.0000,bottom
 "C8","10u","C_0805_2012Metric",3.1500,6.1400,-90.0000,bottom
+"C9","4u7","C_0805_2012Metric",-10.7200,6.1400,-90.0000,bottom
 "D1","1N4148","D_0805_2012Metric",15.8100,6.1600,90.0000,bottom
-"D2","BZT52H-C3V6,115","D_SOD-123F",-0.7775,-7.2800,0.0000,bottom
+"D2","BZT52H-C3V6,115","D_SOD-123F",-0.7875,-4.3000,0.0000,bottom
 "DS1","OLED-128O064D","OLED-128O064D",-0.0500,10.7850,180.0000,bottom
 "J2","HEADER_2x05_PARALLEL","PinHeader_2x05_P2.54mm_Vertical",0.8100,-10.3700,-90.0000,top
 "JP1","ADR","PinHeader_1x03_P2.54mm_Vertical",9.8250,-12.7600,-90.0000,top
@@ -16,7 +17,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "M2","HOLE","MountingHole_3mm",15.1900,20.3700,0.0000,top
 "M3","HOLE","MountingHole_3mm",-15.2900,-10.1100,0.0000,top
 "M4","HOLE","MountingHole_3mm",15.1900,-10.1100,0.0000,top
-"R1","560k","R_0805_2012Metric",-6.7300,6.1400,-90.0000,bottom
+"R1","560k","R_0805_2012Metric",-6.8000,6.1500,-90.0000,bottom
 "R2","4k7","R_0805_2012Metric",-0.7600,4.5500,180.0000,bottom
 "R3","4k7","R_0805_2012Metric",-0.7500,6.6000,180.0000,bottom
 "R4","100R","R_0805_2012Metric",7.3900,2.6100,90.0000,bottom
