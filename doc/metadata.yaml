@@ -8,6 +8,9 @@ github_url: https://github.com/mlab-modules/OLED02
 homepage: false
 image_title: doc/gen/img/OLED02-top.png
 images:
+- doc/img/IMG_20250409_185218.jpg
+- doc/img/IMG_20250409_185328.jpg
+- doc/img/IMG_20250409_185201.jpg
 - doc/gen/img/OLED02-bottom.png
 - doc/gen/img/OLED02-top.png
 - hw/cam_profi/assembly/OLED02-assembly_page_01.svg
@@ -24,4 +27,4 @@ tags:
 - i2c-display
 - mlab-module
 title: OLED02
-updated: '2025-04-12T11:57:31.705354+00:00'
+updated: '2025-04-12T12:17:23.952306+00:00'
