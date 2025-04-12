@@ -21,7 +21,7 @@ images:
 mark: 50
 mod_ibom: hw/cam_profi/OLED02-ibom.html
 mod_scheme: doc/gen/OLED02-schematic.pdf
-status: 1
+status: 2
 tags:
 - display
 - i2c-display
