@@ -14,7 +14,7 @@ The **OLED02A** is a simplified variant of the MLAB OLED01 module. It features a
 - **Address Configuration**: Default I²C address is `0x3C`, changeable to `0x3D` via onboard jumper.
 - **Mounting**:
   - Horizontal MLAB standard.
-  - Optional vertical placement using 3D-printed holder.
+  - Optional vertical placement using a 3D-printed holder.
 
 ## Electrical Characteristics
 
@@ -39,8 +39,8 @@ The **OLED02A** is a simplified variant of the MLAB OLED01 module. It features a
 - **Board Thickness**: 1.6 mm
 - **Mounting**: Compatible with standard MLAB module placement
 
-![](/doc/gen/img/OLED02-top.png)
-![](/doc/gen/img/OLED02-bottom.png)
+![](doc/gen/img/OLED02-top.png)
+![](doc/gen/img/OLED02-bottom.png)
 
 
 ## I²C Pin Configuration (Standard MLAB I2C Layout)
