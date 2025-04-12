@@ -1,6 +1,8 @@
-description: 1.3" OLED display module
+description: "Simplified 1.3\" OLED display and SSD1306 controller, connected via\
+  \ I\xB2C."
 github_branch: OLED02A
-github_description: 1.3" OLED display module
+github_description: "Simplified 1.3\" OLED display and SSD1306 controller, connected\
+  \ via I\xB2C."
 github_repo: OLED02
 github_url: https://github.com/mlab-modules/OLED02
 homepage: false
@@ -17,6 +19,9 @@ mark: 50
 mod_ibom: hw/cam_profi/OLED02-ibom.html
 mod_scheme: doc/gen/OLED02-schematic.pdf
 status: 1
-tags: []
+tags:
+- display
+- i2c-display
+- mlab-module
 title: OLED02
-updated: '2025-03-14T00:51:52.811875+00:00'
+updated: '2025-04-12T11:57:31.705354+00:00'
