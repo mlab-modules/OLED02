@@ -1,6 +1,6 @@
 # OLED02 Display with I2C interface
 
-The **OLED02A** is a simplified variant of the MLAB OLED01 module. It features a 1.3-inch blue OLED display using the SSD1306BZ controller and communicates over an I²C interface.
+The **OLED02A** is a simplified variant of the MLAB [OLED01](https://github.com/mlab-modules/OLED01) module. It features a 1.3-inch blue OLED display using the SSD1306BZ controller and communicates over an I²C interface.
 
 ## Features
 
