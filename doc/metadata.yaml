@@ -8,13 +8,14 @@ github_url: https://github.com/mlab-modules/OLED02
 homepage: false
 image_title: doc/gen/img/OLED02-top.png
 images:
-- doc/img/IMG_20250409_185218.jpg
 - doc/img/IMG_20250409_185328.jpg
+- doc/img/OLED02.jpg
 - doc/img/IMG_20250409_185201.jpg
-- doc/gen/img/OLED02-bottom.png
+- doc/img/IMG_20250409_185218.jpg
 - doc/gen/img/OLED02-top.png
-- hw/cam_profi/assembly/OLED02-assembly_page_01.svg
+- doc/gen/img/OLED02-bottom.png
 - hw/cam_profi/assembly/OLED02-assembly_page_02.svg
+- hw/cam_profi/assembly/OLED02-assembly_page_01.svg
 - doc/gen/OLED02-schematic.svg
 - doc/gen/img/OLED02-bottom.svg
 - doc/gen/img/OLED02-top.svg
@@ -28,4 +29,4 @@ tags:
 - mlab-module
 - human-interface
 title: OLED02
-updated: '2025-04-16T11:48:26.090195+00:00'
+updated: '2026-04-15T12:14:14.128360+00:00'
