@@ -2,8 +2,10 @@
 
 The **OLED02A** is a simplified variant of the MLAB [OLED01](https://github.com/mlab-modules/OLED01) module. It features a 1.3-inch blue OLED display using the SSD1306BZ controller and communicates over an I²C interface.
 
-## Features
 
+![](doc/img/OLED02.jpg)
+
+## Features
 - **Display**: 1.3-inch passive matrix OLED with a resolution of 128x64 pixels.
 - **Color**: Blue.
 - **Controller**: SSD1306BZ.
